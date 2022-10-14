@@ -1,0 +1,9 @@
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\bin\Debug\DiceStartingPoint.dll
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\bin\Debug\DiceStartingPoint.pdb
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\obj\Debug\DiceStartingPoint.csproj.AssemblyReference.cache
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\obj\Debug\DiceStartingPoint.Properties.Resources.resources
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\obj\Debug\DiceStartingPoint.UserControl1.resources
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\obj\Debug\DiceStartingPoint.csproj.GenerateResource.cache
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\obj\Debug\DiceStartingPoint.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\obj\Debug\DiceStartingPoint.dll
+C:\Users\Joyce\source\repos\DiceStartingPoint\DiceStartingPoint\obj\Debug\DiceStartingPoint.pdb
